@@ -1,3 +1,6 @@
+Your task is to create a software system to support a bike share programme (like NextBike in Glasgow, or Santander Cycles in London). You need to create a functioning end-to-end prototype and demonstrate it with appropriate data. Your product is meant to provide an interface for customers to reserve and return bikes and to pay their bills; for operators to assess the state of the system and make changes if necessary; and for managers to view usage reports.
+
+
 # User Manual of 1l team project
 
 ## test method of the project
